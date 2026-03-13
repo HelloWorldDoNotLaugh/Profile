@@ -1,5 +1,4 @@
 # Cursor
-DOMAIN-KEYWORD,*.cursor.com
 DOMAIN,api2.cursor.sh
 DOMAIN,api3.cursor.sh
 DOMAIN,api4.cursor.sh
@@ -10,3 +9,6 @@ DOMAIN,authenticator.cursor.sh
 DOMAIN,marketplace.cursorapi.com
 DOMAIN,cursor-cdn.com
 DOMAIN,downloads.cursor.com
+DOMAIN-KEYWORD,*.cursor.com
+DOMAIN-KEYWORD,*.cursor.sh
+DOMAIN-KEYWORD,*.cursor.*
