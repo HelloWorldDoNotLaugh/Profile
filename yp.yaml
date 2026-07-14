@@ -1,16 +1,6 @@
-DOMAIN-KEYWORD,.bass.3g
-DOMAIN-KEYWORD,.yp
-DOMAIN-KEYWORD,yeepay
-DOMAIN-KEYWORD,gptransfer.hk
-DOMAIN-KEYWORD,.bass.3g
+# Yeepay / company internal domains
+DOMAIN-SUFFIX,bass.3g
+DOMAIN-SUFFIX,yp
+DOMAIN-SUFFIX,yeepay.com
+DOMAIN-SUFFIX,gptransfer.hk
 DOMAIN,artifact.paas.yp
-DOMAIN-KEYWORD,jetbrains
-DOMAIN-SUFFIX,kaizo.top
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubstatus.com
-DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
-DOMAIN-SUFFIX,github-production-release-asset-2e65be.s3.amazonaws.com
-DOMAIN-SUFFIX,github-production-user-asset-6210df.s3.amazonaws.com
